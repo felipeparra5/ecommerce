@@ -1,2 +1,2 @@
 # ecommerce
-Projeto de Ecommerce em PHP usando framework Larvel - AMS ADS FATEC
+Projeto de Ecommerce de camisas esportivas (apenas o front end) - AMS ADS FATEC
